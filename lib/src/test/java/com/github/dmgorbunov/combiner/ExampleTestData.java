@@ -1,6 +1,6 @@
-package combiner;
+package com.github.dmgorbunov.combiner;
 
-public class ExampleTestData implements TestData {
+public class ExampleTestData {
 
     private String a;
     private String b;
